@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://img.freepik.com/premium-photo/thoughtful-android-robot-3d-illustration-contains-clipping-path_1401-1044.jpg?w=2000)](https://PranavMarathe07.io)
+[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)](https://PranavMarathe07.io)
 <h1 align="center">Hi 👋, I'm Pranav Marathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right alt="Coding Width="400" src="https://cdn.dribbble.com/users/4107928/screenshots/16332316/media/719efcff15976cc5df758885c931429d.jpg?compress=1&resize=400x300&vertical=top.gif">
